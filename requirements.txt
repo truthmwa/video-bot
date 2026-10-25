@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pymupdf
+moviepy==1.0.3
+mutagen
